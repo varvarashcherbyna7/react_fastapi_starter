@@ -28,6 +28,7 @@ yarn-error.log*
 .ipynb_checkpoints
 .mypy_cache
 .vscode
+.venv
 __pycache__
 .pytest_cache
 htmlcov
